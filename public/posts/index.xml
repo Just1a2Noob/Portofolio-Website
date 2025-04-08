@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Portofolio Website</title>
-    <link>//localhost:1313/posts/</link>
+    <link>https://Just1a2Noob/github.io/Portofolio-Website/posts/</link>
     <description>Recent content in Posts on Portofolio Website</description>
     <generator>Hugo -- 0.126.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Apr 2025 07:23:37 +0700</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Just1a2Noob/github.io/Portofolio-Website/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
+      <title>Can Linear Regression Compete with SVM? Predicting Term Deposit Signups with Bank Data</title>
+      <link>https://Just1a2Noob/github.io/Portofolio-Website/posts/my-first-post/</link>
       <pubDate>Tue, 08 Apr 2025 07:23:37 +0700</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>Hello world! This is my first post using Hugo with the Kayal theme.</description>
+      <guid>https://Just1a2Noob/github.io/Portofolio-Website/posts/my-first-post/</guid>
+      <description>This project is created with the intention of fulfiling my curiosity. Some of the questions that I hope that I can answer by doing this project is:
+What type of person is interested in subscribing to a term deposit? With the assumption of using just calls to tell them about term deposit, is the action of just calling enough to persuade them? If it is enough what is the minimum time needed to know we have somewhat persuaded the person?</description>
     </item>
   </channel>
 </rss>
