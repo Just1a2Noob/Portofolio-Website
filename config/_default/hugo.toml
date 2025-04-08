@@ -1,7 +1,7 @@
 # -- Site Configuration --
 
 # URL to the root of your website.
-# baseURL = "https://Just1a2Noob/github.io/"
+baseURL = "https://Just1a2Noob/github.io/"
 
 # Site's language code
 languageCode = 'en-us'
