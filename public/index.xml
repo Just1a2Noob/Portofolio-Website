@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Portofolio Website</title>
-    <link>http://localhost:1313/Portofolio-Website/</link>
+    <link>https://just1a2noob.github.io/Portofolio-Website/</link>
     <description>Recent content on Portofolio Website</description>
     <generator>Hugo -- 0.126.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/Portofolio-Website/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Can Logistic Regression Compete with LinearSVC? Predicting Term Deposit Signups with Bank Data</title>
-      <link>http://localhost:1313/Portofolio-Website/posts/svm_linear_reg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portofolio-Website/posts/svm_linear_reg/</guid>
-      <description>This project is created with the intention of fulfiling my curiosity. Some of the questions that I hope that I can answer by doing this project is:
-What type of person is interested in subscribing to a term deposit? With the assumption of using just calls to tell them about term deposit, is the action of just calling enough to persuade them? If it is enough what is the minimum time needed to know we have somewhat persuaded the person?</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://just1a2noob.github.io/Portofolio-Website/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

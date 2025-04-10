@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Portofolio-Website/posts/svm_linear_reg/</loc>
+    <loc>https://just1a2noob.github.io/Portofolio-Website/</loc>
+    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/Portofolio-Website/categories/</loc>
+    <loc>https://just1a2noob.github.io/Portofolio-Website/posts/</loc>
+    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/Portofolio-Website/</loc>
+    <loc>https://just1a2noob.github.io/Portofolio-Website/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/Portofolio-Website/posts/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/Portofolio-Website/tags/</loc>
+    <loc>https://just1a2noob.github.io/Portofolio-Website/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
