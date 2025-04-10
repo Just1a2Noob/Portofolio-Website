@@ -1,6 +1,6 @@
 ---
 title: 'Can Logistic Regression Compete with LinearSVC? Predicting Term Deposit Signups with Bank Data'
-date: 2025-04-08T07:23:37+07:00
+date: 2025-04-08
 draft: false
 hidden: false
 externalURL: false
