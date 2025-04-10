@@ -5,8 +5,8 @@ draft: false
 hidden: false
 externalURL: false
 showDate: true
-showModDate: true
-showReadingTime: true
+showModDate: false
+showReadingTime: false
 showTags: true
 showPagination: true
 invertPagination: true
