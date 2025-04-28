@@ -6,7 +6,7 @@
 # [Optional] Path to the site logo image relative to assets/ folder. Displayed before the Site Title in the header. Minimum size: 64x64px.
 # logo = "/imgs/logo.png"
 # Site description.
-description = "Just1a2Noob's portofolio website"
+description = "Just1a2Noob's portofolio website, a collection of a selected projects to showcase Just1a2Noob's skills"
 # [Optional] Copyright owner name.
 copyright = ""
 # Whether to optimize images per view port.
@@ -50,7 +50,7 @@ showMore = true
 showMoreDest = "/posts"
 [homepage.profile]
 # [Optional] Displayed at the top of your homepage.
-headline = "👋 Welcome to my site"
+headline = "👋 Welcome to my site."
 # [Optional] Path to the profile image relative to assets/ folder. Minimum size: 200x200px.
 # image = "imgs/profile.svg"
 # Image position.
@@ -77,20 +77,20 @@ openToC = false
 # Check https://mnjm.github.io/kayal/docs/advanced-customization/#comments
 showComments = false
 # Whether to display breadcrumbs
-showBreadcrumbs = false
+showBreadcrumbs = true
 
 # List template settings
 [list]
 # Whether to group articles by year.
 groupByYear = false
 # Whether to display breadcrumbs
-showBreadcrumbs = false
+showBreadcrumbs = true
 # Whether to display pages as a card
 cardView = true
 # Whether to display thumbnail in list card view. 
-showThumbnail = false
+showThumbnail = true
 # Whether to display RSS link
-showRSS = false
+showRSS = true
 
 # Taxonomy settings
 [taxonomy]
